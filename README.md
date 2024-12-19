@@ -1,5 +1,5 @@
 # About 
-Llava Vision is a straightforward Spring Boot web application that allows users to upload and analyze images. The images are then processed and analyzed using Large Language and Vision Assistant (LLaVA) in response to the user's query or request.
+LLaVA Vision is a straightforward Spring Boot web application that allows users to upload and analyze images. The images are then processed and analyzed using Large Language and Vision Assistant (LLaVA) in response to the user's query or request.
 
 # Getting Started 
 
@@ -7,15 +7,15 @@ Llava Vision is a straightforward Spring Boot web application that allows users 
 * Ensure you have Git installed.
 * Ensure you have Java 21 or later installed.
 * Install Ollama.
-* Install Llava from Ollama's website.
+* Install LLaVA from Ollama's website.
 
 ### Getting Started
 1. Clone this repository using Git.
-2. Ensure you have Ollama  and the required model (Llava) installed.
+2. Ensure you have Ollama and the required model (LLaVA) installed.
 3. Start your application and go to localhost:8080 with a web browser.
  
 # Usages
-Llava Vision can do the following:
+LLaVA Vision can do the following:
 1. Recognizing the content of a given image.
 2. Extract text from the identified image.
 3. Visual Geo-localization (identify where a given image may have been taken from).
