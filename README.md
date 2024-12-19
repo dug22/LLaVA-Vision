@@ -18,7 +18,7 @@ Llava Vision is a straightforward Spring Boot web application that allows users 
 Llava Vision can do the following:
 1. Recognizing the content of a given image.
 2. Extract text from the identified image.
-3. Visual Geo-localization (identify where a given image may have been taken from)
+3. Visual Geo-localization (identify where a given image may have been taken from).
 
 # Media 
 ![Image 1](https://i.imgur.com/lbMnNuv.png)
