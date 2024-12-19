@@ -1,5 +1,5 @@
 # About 
-Llava Vision is a straightforward Spring Boot web application that allows users to upload and analyze images. The images are then processed and analyzed using Large Language and Vision Assistant (Llava) in response to the user's query or request.
+Llava Vision is a straightforward Spring Boot web application that allows users to upload and analyze images. The images are then processed and analyzed using Large Language and Vision Assistant (LLaVA) in response to the user's query or request.
 
 # Getting Started 
 
