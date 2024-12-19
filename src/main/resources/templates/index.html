@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Llava Vision</title>
+    <link th:href="@{/css/styles.css}" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="eye">
+        <div class="ball"></div>
+        <div class="shut">
+            <span></span>
+        </div>
+    </div>
+</div>
+
+
+<form id="imageForm">
+    <h1>Llava Vision</h1>
+    <input type="file" id="imageInput" required/>
+    <input type="text" id="questionInput" placeholder="Enter your question" required/>
+    <button type="submit">Submit</button>
+
+    <button type="button" id="modeToggle">☀️</button>
+
+    <div id="result"></div>
+</form>
+
+
+<script th:src="@{/js/main.js}"></script>
+</body>
+</html>
