@@ -11,8 +11,11 @@ LLaVA Vision is a straightforward Spring Boot web application that allows users 
 
 ### Getting Started
 1. Clone this repository using Git.
+   * ```git clone https://github.com/dug22/LLaVA-Vision.git```
 2. Ensure you have Ollama and the required model (LLaVA) installed.
-3. Start your application and go to localhost:8080 with a web browser.
+   * Install Ollama from this link [Ollama Download](https://ollama.com/download). Make sure the installation is suitable for your operating system.
+   * To install LLaVA, open your terminal and enter the following command ```ollama pull llava```.
+4. Start your application and go to localhost:8080 with a web browser.
  
 # Usages
 LLaVA Vision can do the following:
